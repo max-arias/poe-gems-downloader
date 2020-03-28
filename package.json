@@ -1,0 +1,14 @@
+{
+  "name": "poe-gems-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maximiliano Arias <max@max-arias.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node downloadGems.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
